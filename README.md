@@ -28,7 +28,13 @@
 - **Concept:** Dynamic Programming.
 - **Description:** Finds the maximum profit obtainable by cutting a rod into pieces and selling them.
 
----
+### 6. Largest Rectangle in Histogram
+- **Concept:** Monotonic Stack.
+- **Description:** Finds the area of the largest rectangle that can be formed within a given histogram.
+
+### 7. Maximal Rectangle in Matrix
+- **Concept:** Dynamic Programming / Histogram Application.
+- **Description:** Locates the largest rectangle containing only 1s in a binary 2D matrix, leveraging the Histogram algorithm for each row.
 
 ## 🚀 How to Run Locally
 
